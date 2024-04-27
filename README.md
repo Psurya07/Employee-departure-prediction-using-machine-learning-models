@@ -1,2 +1,2 @@
 # Employee-departure-prediction-using-machine-learning-models
-Machine learning project which uses various classification models to predict whether an employee is likely to quit the organisation or not
+This project aims to develop and evaluate machine learning models for predicting employee departure or churn. The dataset contains crucial employee information such as gender, distance from the office, years of experience, salary details, and performance reviews. The main objective is to build accurate classification models that can predict whether an employee will leave the company or not based on these attributes. By leveraging machine learning algorithms and evaluating model performance.
